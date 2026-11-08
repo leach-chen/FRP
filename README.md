@@ -229,6 +229,3 @@ nginx配置文件路径：/etc/nginx/nginx.conf，有些是在/etc/nginx/sites-e
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/21726aff43a0407f8b4af807670eea30~tplv-k3u1fbpfcp-zoom-1.image#?w=697\&h=686\&s=45052\&e=webp\&b=f6f4f4)
 
-### 配置文件下载：<https://github.com/leach-chen/FRP>
-
-个人网站：<https://www.***.com/>
